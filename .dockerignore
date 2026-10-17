@@ -2,4 +2,8 @@
 !**/
 !**/*.md
 !**/*.pdf
+!**/*.eml
 !nginx.conf
+!tools/build_eml.py
+!tools/mail.css
+!tests/test_eml.py
